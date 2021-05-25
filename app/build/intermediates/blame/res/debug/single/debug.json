@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\raw_battle.mp3.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\raw\\battle.mp3"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_win.xml.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\layout\\activity_win.xml"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_creategame.xml.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\layout\\activity_creategame.xml"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mana_pixel.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\drawable\\mana_pixel.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_savedgames_structure.xml.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\layout\\activity_savedgames_structure.xml"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title_logo.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\drawable\\title_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cardframe_.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\drawable\\cardframe_.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rules.xml.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\layout\\activity_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cardframereverse_.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\drawable\\cardframereverse_.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\font_almendra.ttf.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\font\\almendra.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heart_pixel.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\drawable\\heart_pixel.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_title.xml.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_continue.xml.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\layout\\activity_continue.xml"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]
