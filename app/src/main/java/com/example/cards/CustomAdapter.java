@@ -33,30 +33,30 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.ViewHolder
 
         switch (gamesList.get(position).p1classS) {
             case "1":
-                versus = versus.concat("Humans VS ");
+                versus = versus.concat("Люди VS ");
                 break;
             case "2":
-                versus = versus.concat("Robots VS ");
+                versus = versus.concat("Роботы VS ");
                 break;
             case "3":
-                versus = versus.concat("Plants VS ");
+                versus = versus.concat("Растения VS ");
                 break;
             case "4":
-                versus = versus.concat("Higher Beings VS ");
+                versus = versus.concat("Высшие существа VS ");
                 break;
         }
         switch (gamesList.get(position).p2classS) {
             case "1":
-                versus = versus.concat("Humans");
+                versus = versus.concat("Люди");
                 break;
             case "2":
-                versus = versus.concat("Robots");
+                versus = versus.concat("Роботы");
                 break;
             case "3":
-                versus = versus.concat("Plants");
+                versus = versus.concat("Растения");
                 break;
             case "4":
-                versus = versus.concat("Higher Beings");
+                versus = versus.concat("Высшие существа");
                 break;
         }
         holder.getTextViewVS().setText(versus);

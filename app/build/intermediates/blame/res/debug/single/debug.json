@@ -104,12 +104,12 @@
         "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
         "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\font_almendra.ttf.flat",
         "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\font\\almendra.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
         "merged": "C:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",

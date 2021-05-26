@@ -19,7 +19,8 @@
         android:layout_width="125dp"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|right"
-        android:layout_weight="3"
+        android:layout_weight="1"
+        android:background="#FFCB63"
         android:text="назад" />
 
 </LinearLayout>

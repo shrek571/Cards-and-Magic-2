@@ -1,4 +1,4 @@
-#Tue May 25 23:17:04 GMT+07:00 2021
+#Wed May 26 14:21:32 GMT+07:00 2021
 base.0=C\:\\Users\\ermak\\Desktop\\Cards-and-Magic\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

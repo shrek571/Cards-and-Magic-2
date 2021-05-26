@@ -345,10 +345,10 @@ public class GameActivity extends AppCompatActivity {
     public void flip() {
         if (player == 1) {
             player = 2;
-            constraintLayout.setBackgroundColor(Color.parseColor("#FF4747"));
+            constraintLayout.setBackgroundColor(Color.parseColor("#2196F3"));
         } else {
             player = 1;
-            constraintLayout.setBackgroundColor(Color.parseColor("#2196F3"));
+            constraintLayout.setBackgroundColor(Color.parseColor("#FF4747"));
         }
         temp = yourHp;
         yourHp = enemyHp;
